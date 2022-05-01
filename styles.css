@@ -48,9 +48,9 @@ img {
   padding-top: 94px;
   padding-bottom: 94px;
 } */
-.header-style {
+/* .header-style {
   border-bottom: 1px solid #ececec;
-}
+} */
 /* .visually-hidden {
   position: absolute;
   width: 1px;
@@ -63,19 +63,8 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 } */
-.logo_head {
-  font-family: var(--secondary-font-family);
-  font-weight: 700;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: var(--dark-text-color);
-}
-.logo {
-  margin-right: 92px;
-  display: block;
-}
-.header-container {
+
+/* .header-container {
   display: flex;
   align-items: center;
 }
@@ -201,9 +190,9 @@ img {
 .contact-number:hover .contact-logo-icon,
 .contact-number:focus .contact-logo-icon {
   fill: var(--accent-color);
-}
+} */
 
-.hero {
+/* .hero {
   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
     url('../goit-markup-hw-04/img/img_hero.jpg');
   background-color: #c4c4c4;
@@ -216,7 +205,7 @@ img {
   padding-top: 200px;
   padding-bottom: 200px;
   text-align: center;
-}
+} */
 
 /* .modal-btn {
   min-width: 200px;
@@ -258,7 +247,7 @@ img {
 
 /* benefits section*/
 
-.benefits {
+/* .benefits {
   display: flex;
   justify-content: start;
   flex-wrap: wrap;
@@ -301,7 +290,7 @@ img {
   width: 270px;
   height: 120px;
   border-radius: 5px;
-}
+} */
 
 /* benefits section*/
 
@@ -360,7 +349,7 @@ img {
   padding-left: 32px;
   padding-right: 32px;
 }
-.block_name {
+/* .block_name {
   text-align: center;
   margin-bottom: 50px;
 
@@ -369,7 +358,7 @@ img {
   line-height: 1.16;
   letter-spacing: 0.03em;
   color: var(--dark-text-color);
-}
+} */
 .space-non {
   padding-top: 0;
 }
@@ -586,7 +575,7 @@ img {
   padding-top: 60px;
   padding-bottom: 60px;
 }
-.logo_foot {
+/* .logo_foot {
   font-family: var(--secondary-font-family);
   font-weight: 700;
   font-size: 26px;
@@ -594,7 +583,7 @@ img {
   letter-spacing: 0.03em;
   color: var(--main-light-text-color);
   cursor: pointer;
-}
+} */
 .foot-space {
   margin-top: 20px;
 }
@@ -605,9 +594,9 @@ img {
   margin-bottom: 9px;
 }
 
-.web-word-color {
+/* .web-word-color {
   color: var(--accent-color);
-}
+} */
 
 .link_adress {
   font-style: normal;
