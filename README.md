@@ -1,2 +1,1 @@
-# goit-markup-hw-07
-hw
+# HW-2-desk
