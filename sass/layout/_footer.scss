@@ -12,6 +12,28 @@
 .footer-space-item:not(:last-child) {
   margin-bottom: 9px;
 }
+
+.link_adress {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: var(--main-light-text-color);
+  cursor: pointer;
+}
+
+.contact-mail-foot,
+.contact-number-foot {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.7;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+}
+
 .social-list-footer {
   display: flex;
 
