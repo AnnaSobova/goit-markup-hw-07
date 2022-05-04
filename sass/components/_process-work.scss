@@ -5,10 +5,12 @@
 }
 .process-work-pict {
   margin-right: 30px;
-}
-.process-work-pict:nth-child(3n) {
+
+  &:nth-child(3n) {
   margin-right: 0;
+  }
 }
+
 .process-pict-block {
   position: relative;
 }

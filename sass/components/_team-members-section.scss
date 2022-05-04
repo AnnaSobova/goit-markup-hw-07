@@ -6,11 +6,11 @@
   flex-wrap: wrap;
   align-items: center;
 }
+
 .team-members-pict {
   margin-right: 30px;
   text-align: center;
-}
-.team-members-pict {
+
   box-sizing: border-box;
   border-width: 270px;
   border: 1px;
@@ -18,10 +18,12 @@
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 0px 0px 4px 4px;
   background-color: var(--main-light-text-color);
+
+  &:nth-child(4n) {
+    margin-right: 0;
+  }
 }
-.team-members-pict:nth-child(4n) {
-  margin-right: 0;
-}
+
 .team-members-space {
   padding-top: 30px;
   padding-bottom: 30px;
