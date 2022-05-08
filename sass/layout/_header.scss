@@ -1,7 +1,7 @@
-.header-style {
+.header {
   border-bottom: 1px solid #ececec;
 }
-.header-container {
+.header__container {
   display: flex;
   align-items: center;
 }
@@ -77,13 +77,13 @@
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   }
 }
-.contact-info-head {
+.contact {
   display: flex;
   align-items: center;
   margin-left: auto;
 }
 
-.contact-info-head__size {
+.contact__size {
   margin-right: 50px;
 
   &:nth-child(2n) {

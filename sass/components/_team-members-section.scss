@@ -7,7 +7,7 @@
   align-items: center;
 }
 
-.team-members-pict {
+.team-members__pict {
   margin-right: 30px;
   text-align: center;
 
@@ -24,13 +24,13 @@
   }
 }
 
-.team-members-space {
+.team-members__space {
   padding-top: 30px;
   padding-bottom: 30px;
   padding-left: 32px;
   padding-right: 32px;
 }
-.employee_name {
+.employee {
   margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
@@ -38,7 +38,7 @@
   letter-spacing: 0.03em;
   color: var(--dark-text-color);
 }
-.employee_name_work {
+.employee__work {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
